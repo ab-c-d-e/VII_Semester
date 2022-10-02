@@ -1,0 +1,9 @@
+IV godina  - I semestar
+
+VII semestar
+
+- Veštačka inteligencija (2OER7O01)
+- Računarska grafika (2OER7O02)
+- Programski prevodioci (2OER7O03)
+- Zaštita informacija (2OER7A04)
+- Arhitektura i projektovanje softvera (2OER7A06)
